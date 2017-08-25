@@ -6,7 +6,7 @@ import (
 	"github.com/kevinburke/bigtext"
 )
 
-func ExampleDisplay() {
+func Example() {
 	err := bigtext.Display("Hello World")
 	fmt.Println(err) // nil
 }
