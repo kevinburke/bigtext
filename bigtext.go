@@ -5,7 +5,7 @@ import (
 	"os/exec"
 )
 
-const Version = "0.1"
+const Version = "0.2"
 
 // A Client is a vehicle for displaying information. Some properties may not
 // be available in different notifiers
