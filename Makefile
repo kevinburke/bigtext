@@ -1,3 +1,4 @@
+BUMP_VERSION := $(GOPATH)/bin/bump_version
 MEGACHECK := $(GOPATH)/bin/megacheck
 
 test:
