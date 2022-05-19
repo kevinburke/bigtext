@@ -4,7 +4,7 @@ import (
 	"github.com/andybrewer/mack"
 )
 
-const Version = "0.2"
+const Version = "0.3"
 
 // A Client is a vehicle for displaying information. Some properties may not
 // be available in different notifiers
